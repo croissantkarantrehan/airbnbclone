@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/airbnbclone/static/css/main.d008d0c2.css",
+    "main.js": "/airbnbclone/static/js/main.4795d8ba.js",
+    "index.html": "/airbnbclone/index.html",
+    "main.d008d0c2.css.map": "/airbnbclone/static/css/main.d008d0c2.css.map",
+    "main.4795d8ba.js.map": "/airbnbclone/static/js/main.4795d8ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d008d0c2.css",
+    "static/js/main.4795d8ba.js"
+  ]
+}
